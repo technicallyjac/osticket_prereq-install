@@ -94,7 +94,7 @@ Creating a VM Part 3: Select Review + Create > Create to finalize the VM creatio
   <br />
   
 For Windows OS users, search "Remote Desktop" from the Start Menu. For macOS users, install Remote Desktop from App Store.
-<b/>
+<br />
 <p>
   
   <img width="1075" alt="RD1 2" src="https://github.com/technicallyjac/osticket_prereq-install/assets/138219436/c92b231e-dfb2-4339-8d8b-bc73fca16f4d">
@@ -163,6 +163,7 @@ Install Rewrite Module.
 <p>
 <img width="1121" alt="Screenshot 2023-07-03 at 9 09 01 PM" src="https://github.com/technicallyjac/osticket_prereq-install/assets/138219436/ffa995bd-77db-407c-9630-e3509ed9c086">
 <br/>
+
 Create a directory for PHP on your local hard drive (C:\PHP). Unzip downloaded PHP file into newly created PHP folder in the C drive. 
 </p>
 <br />
