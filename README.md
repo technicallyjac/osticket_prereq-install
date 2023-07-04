@@ -82,8 +82,9 @@ Creating a VM Part 3: Select Review + Create > Create to finalize the VM creatio
 - Install MySQL
 - Open IIS as an Admin.
 - Register PHP
-- Install osTicket v1.15.8
 - Install Heidi SQL
+- Install osTicket v1.15.8
+
   
 
 <h2>Executed Installation Steps</h2>
